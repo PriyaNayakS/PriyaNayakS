@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priya Nayak S</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning on **Machine Learning,Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🚀 Currently Exploring **CNN for image classification in environmental studies.**
 
-- 💬 Ask me about **Java,HTML,C**
+- 💬 Ask me about **Java,HTML,C,CSS,JS,Python**
 
 - 📫 How to reach me **priyanayak1919@gmail.com**
 
